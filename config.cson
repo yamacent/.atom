@@ -1,0 +1,14 @@
+'global':
+  'exception-reporting':
+    'userId': '05355d3a-d137-f8dd-f391-d6f954d151d9'
+  'welcome':
+    'showOnStartup': false
+  'metrics':
+    'userId': '1e2dde882fc6da019ff5b2eea6734ffa8f8c605a'
+  'editor':
+    'showInvisibles': true
+    'showIndentGuide': true
+    'tabLength': 4
+    'fontSize': 14
+    'invisibles': {}
+  'core': {}
